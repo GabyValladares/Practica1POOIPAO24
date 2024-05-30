@@ -8,7 +8,7 @@ package vista;
  *
  * @author Usuario
  */
-public class Main {
+public class MainEstructurada {
     //1. MÉTODO TRADUCTOR O INTERPRETE
     public static void main(String[] args) {
         System.out.println("HOLA");
